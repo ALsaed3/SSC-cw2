@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteBase /
+
+# Change if needed
+php_value auto_prepend_file "C:\xampp\htdocs\G1-mainn\loader.php"
